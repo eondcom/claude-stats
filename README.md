@@ -4,6 +4,9 @@
 
 `~/.claude/stats-cache.json`과 `~/.claude/projects/` 디렉토리를 읽어 세션별 토큰 사용량, 모델 분석, 일별 활동, 시간대 분포, 플랜 한도 현황을 시각화합니다.
 
+> **GitHub:** https://github.com/eondcom/claude-stats
+> **최초 작성:** 2026년 4월 28일
+
 ![dashboard preview](https://raw.githubusercontent.com/eondcom/claude-stats/main/preview.png)
 
 ## 요구 사항
